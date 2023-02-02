@@ -1,0 +1,13 @@
+.post {
+    border: 2px solid green;
+    padding: 20px;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    margin-bottom: 10px;
+}
+
+.post__btns {
+    display: flex;
+}
